@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "455701122639",
+    "firebase_url": "https://swallow-4bc1b.firebaseio.com",
+    "project_id": "swallow-4bc1b",
+    "storage_bucket": "swallow-4bc1b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455701122639:android:7edf9cf0057cd9ba02243a",
+        "android_client_info": {
+          "package_name": "com.example.swallow_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "455701122639-fkkpttj2qq7kq2re7kdsj3fpk3susbsk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.swallow_app",
+            "certificate_hash": "9d7f5b6f3c6ff10630c94d0c216b98f2c815404c"
+          }
+        },
+        {
+          "client_id": "455701122639-o0nirp31ggfr9r896rc6prqg5itkg60q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcayCSWlS7rGakNROlXYSRw9Iq-FqiDUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "455701122639-o0nirp31ggfr9r896rc6prqg5itkg60q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Swallow</string>
+    <string name="action_settings">Nustatymai</string>
+    <string name="navigation_main">Pagrindinis</string>
+    <string name="navigation_card">Kortelės</string>
+    <string name="navigation_map">Žemėlapis</string>
+    <string name="title_activity_settings">Nustatymai</string>
+    <string name="title_activity_about">Apie</string>
+    <string name="action_about">Apie</string>
+    <string name="title_activity_cards">Lojalumo kortelės</string>
+    <string name="title_activity_map">Žemėlapis</string>
+    <string name="settings_name">Vardas</string>
+    <string name="settings_sound">Garsas</string>
+    <string name="settings_language">Kalba</string>
+    <string-array name="language">
+        <item>Anglų</item>
+        <item>Lietuvių</item>
+    </string-array>
+    <string name="settings_save">Išsaugoti</string>
+    <string name="info_about">© Viktorija Varnaitė IFF-7/2</string>
+    <string name="card_create">Įveskite lojalumo kortelės numerį</string>
+    <string name="card_save">Išsaugoti</string>
+    <string name="card_cancel">Atšaukti</string>
+    <string name="card_save_completed">Išsaugota</string>
+    <string name="title_activity_database">Pridėti naują kortelę</string>
+    <string name="cardName">Kortelės pavadinimas</string>
+    <string name="cardNumber">Kortelės numeris</string>
+    <string name="cardPhoto">Kortelės nuotrauka</string>
+    <string name="scanCode">Skanuoti kodą</string>
+    <string name="photoUpload">Įkelti nuotrauką</string>
+    <string name="informationUpload">Įkelti</string>
+    <string name="choose_photo">Pasirinkite nuotrauką</string>
+    <string name="uploading">Informacija įkeliama į talpyklą!</string>
+    <string name="upload_succesfull">Informacija buvo įkelta!</string>
+    <string name="fill_values">Užpildykite visus laukus!</string>
+</resources>

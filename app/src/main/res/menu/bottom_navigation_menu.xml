@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_map"
+        android:icon="@drawable/ic_place"
+        android:title="@string/navigation_map"/>
+    <item
+        android:id="@+id/navigation_main"
+        android:icon="@drawable/ic_home"
+        android:title="@string/navigation_main" />
+    <item
+        android:id="@+id/navigation_card"
+        android:icon="@drawable/ic_credit_card"
+        android:title="@string/navigation_card" />
+
+</menu>
